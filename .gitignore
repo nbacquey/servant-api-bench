@@ -1,0 +1,5 @@
+./*/.stack-work/
+_old/
+.stack-work/
+*.lock
+*~
